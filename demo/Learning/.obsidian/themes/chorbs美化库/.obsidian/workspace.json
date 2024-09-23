@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "bca986875bb47f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "768b22eaef31798e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "317b87d9d3988208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "精选壁纸/动漫.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8c4b4a385d017416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "精选壁纸/风景.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "192816d4beea4f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "精选壁纸/极简.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "085faea8d125b2c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "精选壁纸/场景.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fadd688b33bc134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "测试文章.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b357a77910f228b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc5133d128f913a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自制-深色.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2291bf432229042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AnuPpuccin设置对照.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74fbdabe79fef63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "精选壁纸/童话绘本风.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b3f0e3378e36624",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a2207e2234404bc",
+        "type": "tabs",
+        "dimension": 67.37588652482269,
+        "children": [
+          {
+            "id": "1efef0ba351e7e82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36a8505f6ff7f965",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "48fa4e041bae684b",
+        "type": "tabs",
+        "dimension": 32.62411347517731,
+        "children": [
+          {
+            "id": "6ca4afa11878e7a0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34ad56c8682fdd50",
+    "type": "split",
+    "children": [
+      {
+        "id": "538311f20919b760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8c258b5149ca15",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "766ba0d1df344e87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "127924fcd6133b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79a02f1e236b2cb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "418463742c46d6fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "228c73678da559d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "820de8136c515300",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e722ed0f112961b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ee32011790f4d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "cmdr:Commander: style setting悬浮": false
+    }
+  },
+  "active": "78bdac196f8975b3",
+  "lastOpenFiles": [
+    "精选壁纸/动漫.md",
+    "精选壁纸/童话绘本风.md",
+    "测试文章.md",
+    "自制-浅色.md",
+    "自制-深色.md",
+    "AnuPpuccin设置对照.md",
+    "Attachment/浅+深-小岛.json",
+    "Attachment/深色-小岛夜晚.png",
+    "回避型依恋人格.md",
+    "精选壁纸/风景.md",
+    "Attachment/浅色-小岛白天.json",
+    "Attachment/浅色-小岛白天.png",
+    "精选壁纸/极简.md",
+    "Attachment/浅色-粉.json",
+    "Attachment/深色-书房 (1).json",
+    "精选壁纸/场景.md",
+    "Attachment/浅色-粉.png",
+    "Attachment/深色-鬼灭之刃.json",
+    "Attachment/鬼灭之刃.json",
+    "Attachment/深色-鬼灭之刃.png",
+    "Attachment/深色-书房.json",
+    "Attachment/深色-书房.png",
+    "Attachment/深色-星空.json",
+    "Attachment/深色-三棱镜.png",
+    "Attachment/深色-三棱镜.json",
+    "Attachment/深色-星空.png",
+    "Attachment/深色-极简三棱镜.json",
+    "Attachment/深色-极简三棱镜.png",
+    "Attachment/深色-树林.png",
+    "Attachment/深色-绿色树林.jpg",
+    "什么是回避型依恋人格.md",
+    "A/1.md"
+  ]
+}

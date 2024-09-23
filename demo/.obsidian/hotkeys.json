@@ -1,0 +1,15 @@
+{
+  "app:open-help": [],
+  "app:open-settings": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "cmdr:macro-0": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ]
+}

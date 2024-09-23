@@ -1,0 +1,64 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "cmdr:macro-0",
+      "icon": "activity",
+      "name": "Commander: style setting悬浮",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-hover-editor:open-new-popover"
+        },
+        {
+          "action": 1,
+          "delay": "300"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-style-settings:show-style-settings-leaf"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-hover-editor:convert-active-pane-to-popover"
+        }
+      ],
+      "name": "style setting悬浮111",
+      "icon": "star",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

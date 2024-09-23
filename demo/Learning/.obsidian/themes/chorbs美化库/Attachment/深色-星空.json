@@ -1,0 +1,20 @@
+{
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
+  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
+  "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
+  "anuppuccin-theme-settings@@anp-speech-bubble": true,
+  "anuppuccin-theme-settings@@anp-background-image-toggle": true,
+  "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://w.wallhaven.cc/full/qz/wallhaven-qzg2xl.png\")",
+  "anuppuccin-theme-settings@@anp-custom-bg-brightness-dark": 1,
+  "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 0.25,
+  "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-hide-borders": true,
+  "anuppuccin-theme-settings@@anp-card-shadows": true,
+  "anuppuccin-theme-settings@@anp-card-layout-actions": true,
+  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-nord-darker"
+
+}

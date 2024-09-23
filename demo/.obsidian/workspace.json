@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "bca986875bb47f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4e8a93d87bf258",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8019b5ff6dfc5699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/00 Inbox/network/实验笔记和排查/x拍错.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b3f0e3378e36624",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a2207e2234404bc",
+        "type": "tabs",
+        "dimension": 67.37588652482269,
+        "children": [
+          {
+            "id": "1efef0ba351e7e82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36a8505f6ff7f965",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8438de9c07140709",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "48fa4e041bae684b",
+        "type": "tabs",
+        "dimension": 32.62411347517731,
+        "children": [
+          {
+            "id": "6ca4afa11878e7a0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34ad56c8682fdd50",
+    "type": "split",
+    "children": [
+      {
+        "id": "538311f20919b760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8c258b5149ca15",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "766ba0d1df344e87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning/00 Inbox/network/实验笔记和排查/x拍错.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "127924fcd6133b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79a02f1e236b2cb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "418463742c46d6fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning/00 Inbox/network/实验笔记和排查/x拍错.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "228c73678da559d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning/00 Inbox/network/实验笔记和排查/x拍错.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "820de8136c515300",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "cmdr:Commander: style setting悬浮": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "8019b5ff6dfc5699",
+  "lastOpenFiles": [
+    "Learning/Daily-Note/2024-09-08.md",
+    "Learning/00 Inbox/network/实验笔记和排查/x拍错.md",
+    "Learning/00 Inbox/network/实验笔记和排查",
+    "Learning/00 Inbox/novel/新二次元综漫融合/灵感碎片一歧日和.md",
+    "Learning/00 Inbox/novel/新二次元综漫融合/女主角.md",
+    "Learning/00 Inbox/Obsidian Learning/obsidian学习.md",
+    "Learning/00 Inbox/Obsidian Learning/Obsidian 插件.md",
+    "Learning/00 Inbox/Obsidian Learning/DateView 查询.md",
+    "Learning/00 Inbox/Obsidian Learning/这是测试双链的.md",
+    "Learning/00 Inbox/Obsidian Learning/Obsidian搜索技巧.md",
+    "Learning/00 Inbox/Obsidian Learning/Obsidian插件功能.md",
+    "Learning/00 Inbox/novel/新二次元综漫融合/主要剧情设定.md",
+    "女主角.md",
+    "Learning/00 Inbox/network/HuaWei/链路聚合/eth-trunk/LAG.md",
+    "Learning/00 Inbox/network/HuaWei/链路聚合/mlag/mlag.md",
+    "Pasted image 20240721190005.png",
+    "Learning/00 Inbox/network/HuaWei/链路聚合/mlag",
+    "Pasted image 20240721091615.png",
+    "Learning/00 Inbox/network/HUAWEI-笔试错题笔记/2024-06-22 复习.md",
+    "Learning/00 Inbox/network/HuaWei/链路聚合/eth-trunk",
+    "Learning/00 Inbox/network/HuaWei/链路聚合",
+    "Learning/00 Inbox/novel/武侠综合类型/武行说.md",
+    "Learning/00 Inbox/network/HuaWei/WAN AND Ipsec/WAN-wide area network.md",
+    "Learning/00 Inbox/novel/武侠综合类型",
+    "Learning/00 Inbox/network/HuaWei/WAN AND Ipsec/NHRP会用到的一些命令.md",
+    "Learning/00 Inbox/network/HuaWei/WAN AND Ipsec/Ipsec 基础理论部分.md",
+    "Learning/00 Inbox/network/HuaWei/WAN AND Ipsec/Ipsec 配置部分.md",
+    "Learning/00 Inbox/network/HuaWei/ISIS/isis的报文.md",
+    "Learning/00 Inbox/network/HuaWei/ISIS/ISIS整体.md",
+    "Learning/00 Inbox/network/HuaWei/ISIS/isis邻居建立失败的可能.md",
+    "disp isis lsdb verbose.png",
+    "Learning/00 Inbox/network/日常记录的一些指令.md",
+    "Learning/00 Inbox/network/HuaWei/Multi Protocol Label Switching/VPN概述.md",
+    "Learning/00 Inbox/network/HuaWei/Multi Protocol Label Switching/ospf-bgpv4.md",
+    "Learning/00 Inbox/network/HUAWEI-笔试错题笔记/{date}",
+    "Learning/00 Inbox/network/HUAWEI-笔试错题笔记",
+    "Attachment/浅+深-小岛.json",
+    "Attachment/深色-小岛夜晚.png",
+    "Attachment/浅色-小岛白天.json",
+    "Attachment/浅色-小岛白天.png",
+    "Attachment/浅色-粉.json",
+    "Attachment/浅色-粉.png",
+    "Attachment/深色-鬼灭之刃.png",
+    "Attachment/深色-书房.png",
+    "Attachment/深色-三棱镜.png",
+    "Attachment/深色-星空.png"
+  ]
+}

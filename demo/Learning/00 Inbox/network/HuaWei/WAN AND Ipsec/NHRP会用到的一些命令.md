@@ -1,0 +1,1 @@
+display mgre peer 产看mgre的邻居信息

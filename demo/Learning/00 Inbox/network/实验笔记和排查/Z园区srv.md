@@ -1,0 +1,2 @@
+主要在真机配置srv6的时候配置loator需要后面跟no-flav
+注意实机器上面opcode 后面都是加了no-falv
