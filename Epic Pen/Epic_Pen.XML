@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>EpicPen</name></assembly>
+<members>
+<member name="T:TextSurface.TextMoveCircle">
+<summary>
+UserControl defined in TextMoveCircle.xaml
+</summary>
+</member>
+<member name="T:ToolTipSurface.ToolTop">
+<summary>
+UserControl defined in ToolTip.xaml
+</summary>
+</member>
+<member name="T:InkWindow.InkWindow">
+<summary>
+Window defined in InkWindow.xaml
+</summary>
+</member>
+</members>
+</doc>
