@@ -42,5 +42,5 @@ git check 分支名 切换分支
 git commit -a -m同时提交和add
 git branch -d 删除分支
 git branch -D 强制删除
-git branch check -b 分支明创建并切换分支
+git  check -b 分支明创建并切换分支
 git merge  合并分支
