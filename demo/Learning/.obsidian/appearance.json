@@ -1,4 +1,16 @@
 {
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "system",
+  "enabledCssSnippets": [
+    "【AnuPpuccin】浮动搜索栏",
+    "【AnuPpuccin】its-frontmatter",
+    "【AnuPpuccin】扩展的颜色方案",
+    "custom-background",
+    "【AnuPpuccin】notion-cards",
+    "【AnuPpuccin】minimal-cards"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "textFontFamily": "楷体",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Propo",
+  "baseFontSize": 21
 }

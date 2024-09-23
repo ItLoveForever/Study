@@ -4,5 +4,7 @@
   "newLinkFormat": "shortest",
   "newFileFolderPath": "00 Inbox",
   "attachmentFolderPath": "attachment",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }

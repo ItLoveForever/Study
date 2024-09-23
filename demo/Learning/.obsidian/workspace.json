@@ -1,44 +1,34 @@
 {
   "main": {
-    "id": "3214c689cf2c477a",
+    "id": "bca986875bb47f24",
     "type": "split",
     "children": [
       {
-        "id": "5372259e8a633849",
+        "id": "976a0bd5e0c03815",
         "type": "tabs",
         "children": [
           {
-            "id": "05cf3fb72d6cf889",
+            "id": "badd9e786465d832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/obsidian学习.md",
+                "file": "00 Inbox/network/HuaWei/ISIS/ISIS整体.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "65f26fc2b5784118",
+            "id": "8d9e6c2e6a060894",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Templates/Proceeding Template.md",
+                "file": "00 Inbox/python/python输出相关.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d75e69299ff57d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/obsidian学习.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -50,15 +40,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1cd7d8cdac457dbf",
+    "id": "8b3f0e3378e36624",
     "type": "split",
     "children": [
       {
-        "id": "33bb2f3438b8fc71",
+        "id": "9a2207e2234404bc",
         "type": "tabs",
+        "dimension": 67.37588652482269,
         "children": [
           {
-            "id": "decc48cf23f54ce5",
+            "id": "1efef0ba351e7e82",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +59,81 @@
             }
           },
           {
-            "id": "d5b269bb2ba1ae3f",
+            "id": "36a8505f6ff7f965",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "48fa4e041bae684b",
+        "type": "tabs",
+        "dimension": 32.62411347517731,
+        "children": [
+          {
+            "id": "6ca4afa11878e7a0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34ad56c8682fdd50",
+    "type": "split",
+    "children": [
+      {
+        "id": "538311f20919b760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8c258b5149ca15",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "766ba0d1df344e87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Inbox/python/python输出相关.md"
+              }
+            }
+          },
+          {
+            "id": "fd7c49fd4f126921",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "127924fcd6133b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79a02f1e236b2cb5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +148,53 @@
             }
           },
           {
-            "id": "0589e8accec6886c",
+            "id": "418463742c46d6fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Inbox/python/python输出相关.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "228c73678da559d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Inbox/python/python输出相关.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "820de8136c515300",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e722ed0f112961b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ee32011790f4d0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,107 +205,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "d3b677212d6d9cb0",
-    "type": "split",
-    "children": [
-      {
-        "id": "4afd9ee363794293",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cdd53a8f9b7c5f97",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "00 Templates/Proceeding Template.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9f9b9987acf73c54",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "00 Templates/Proceeding Template.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a5c7ce9b1ce459a7",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "f5d2048f5b38c3aa",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "00 Templates/Proceeding Template.md"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
+    "width": 304
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-memos:Thino": false,
+      "cmdr:Commander: style setting悬浮": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "65f26fc2b5784118",
+  "active": "8d9e6c2e6a060894",
   "lastOpenFiles": [
-    "Proceeding of the Meeting/2023会议记录.md",
-    "00 Templates/Proceeding Template.md",
-    "00 Inbox/obsidian学习.md",
-    "Proceeding of the Meeting",
-    "00 Inbox/2024-04-03.md",
-    "未命名.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Daily-Note/24-04-03——We.md",
-    "00 Templates/Daily Note Template.md",
-    "00 Templates/24-04-03——We.md",
-    "Daily-Note",
-    "00 Templates",
-    "00 Inbox/Obsidian插件功能.md",
-    "00 Inbox/这是测试双链的.md",
-    "00 Inbox/未命名.md",
-    "Welcome.md",
-    "00 Inbox/Untitled.md",
-    "00 Inbox/2024-04-02.md",
-    "00 Inbox/2024-03-31.md",
-    "attachment",
-    "00 Inbox"
+    "00 Inbox/python/变量,.md",
+    "00 Inbox/python/python输出相关.md",
+    "00 Inbox/python/注释,py文件的执行相关.md",
+    "00 Inbox/Obsidian Learning/DateView 查询.md",
+    "Excalidraw/变量内存概念.md",
+    "00 Inbox/python/py注意事项和基本代码规范.md",
+    "00 Inbox/python/py中的函数.md",
+    "00 Inbox/python/PyCharm常用快捷键和常见转义字符.md",
+    "00 Inbox/Obsidian Learning/这是测试双链的.md",
+    "00 Inbox/Obsidian Learning/obsidian学习.md",
+    "00 Inbox/novel.md",
+    "00 Inbox/密码.md",
+    "chorbs美化库/Attachment/深色-树林.png",
+    "chorbs美化库/精选壁纸/场景.md",
+    "chorbs美化库/精选壁纸/动漫.md",
+    "chorbs美化库/精选壁纸/极简.md",
+    "chorbs美化库/精选壁纸/风景.md",
+    "chorbs美化库/Attachment/浅色-粉.png",
+    "chorbs美化库/Attachment/浅色-小岛白天.png",
+    "chorbs美化库/Attachment/深色-鬼灭之刃.png",
+    "chorbs美化库/Attachment/深色-星空.png",
+    "chorbs美化库/Attachment/深色-小猫.png",
+    "chorbs美化库/Attachment/深色-小岛夜晚.png",
+    "chorbs美化库/Attachment/深色-书房.png",
+    "chorbs美化库/Attachment/深色-三棱镜.png",
+    "chorbs美化库/Attachment/深色-林间小屋.png",
+    "00 Inbox/Git/Git常用命令.md",
+    "chorbs美化库/精选壁纸/童话绘本风.md",
+    "chorbs美化库/精选壁纸",
+    "chorbs美化库/Attachment/深色-鬼灭之刃.json",
+    "chorbs美化库/Attachment/深色-树林.json",
+    "chorbs美化库/Attachment/深色-林间小屋.json",
+    "chorbs美化库/Attachment/深色-星空.json",
+    "chorbs美化库/Attachment/深色-小猫.json",
+    "chorbs美化库/Attachment/深色-书房.json",
+    "chorbs美化库/Attachment/深色-三棱镜.json",
+    "chorbs美化库/Attachment/浅色-粉.json",
+    "chorbs美化库/Attachment/浅&深-小岛.json",
+    "chorbs美化库/自制-深色.md",
+    "chorbs美化库/自制-浅色.md",
+    "chorbs美化库/测试文章.md",
+    "chorbs美化库/AnuPpuccinMD元素设置对照.md",
+    "00 Inbox/主要剧情设定^12.md",
+    "00 Inbox/知识学习.md",
+    "00 Inbox/Read Me.md",
+    "00 Inbox/集中式网管.md",
+    "Untitled.canvas"
   ]
 }
