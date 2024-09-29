@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "8d9e6c2e6a060894",
+            "id": "5e75a1eb529eb332",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Git/Git常用命令.md",
+                "file": "00 Inbox/python/用到一些函数和细节.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/Git/Git常用命令.md"
+                "file": "00 Inbox/python/用到一些函数和细节.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/Git/Git常用命令.md",
+                "file": "00 Inbox/python/用到一些函数和细节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/Git/Git常用命令.md",
+                "file": "00 Inbox/python/用到一些函数和细节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,20 +222,30 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8d9e6c2e6a060894",
+  "active": "5e75a1eb529eb332",
   "lastOpenFiles": [
-    "00 Inbox/python/python输出相关.md",
-    "00 Inbox/python/变量,.md",
-    "00 Inbox/python/注释,py文件的执行相关.md",
-    "00 Inbox/Obsidian Learning/DateView 查询.md",
-    "Excalidraw/变量内存概念.md",
-    "00 Inbox/python/py注意事项和基本代码规范.md",
-    "00 Inbox/python/py中的函数.md",
+    "00 Inbox/python/python面试扩展.md",
     "00 Inbox/python/PyCharm常用快捷键和常见转义字符.md",
+    "00 Inbox/python/py中的函数.md",
+    "00 Inbox/python/用到一些函数和细节.md",
+    "00 Inbox/python/变量和数据类型简单讲解.md",
+    "00 Inbox/python/python输出相关.md",
     "00 Inbox/Obsidian Learning/这是测试双链的.md",
+    "00 Inbox/Obsidian Learning/DateView 查询.md",
+    "00 Inbox/Obsidian Learning/Obsidian插件功能.md",
+    "00 Inbox/Obsidian Learning/Obsidian搜索技巧.md",
     "00 Inbox/Obsidian Learning/obsidian学习.md",
-    "00 Inbox/novel.md",
+    "Welcome.md",
+    "00 Inbox/create a link.md",
+    "00 Inbox/python/注释,py文件的执行相关.md",
+    "00 Inbox/python/py注意事项和基本代码规范.md",
     "00 Inbox/密码.md",
+    "00 Inbox/集中式网管.md",
+    "00 Inbox/novel.md",
+    "00 Inbox/Read Me.md",
+    "00 Inbox/www.md",
+    "00 Inbox/Git/Git常用命令.md",
+    "Excalidraw/变量内存概念.md",
     "chorbs美化库/Attachment/深色-树林.png",
     "chorbs美化库/精选壁纸/场景.md",
     "chorbs美化库/精选壁纸/动漫.md",
@@ -250,8 +260,6 @@
     "chorbs美化库/Attachment/深色-书房.png",
     "chorbs美化库/Attachment/深色-三棱镜.png",
     "chorbs美化库/Attachment/深色-林间小屋.png",
-    "00 Inbox/Git/Git常用命令.md",
-    "chorbs美化库/精选壁纸/童话绘本风.md",
     "chorbs美化库/精选壁纸",
     "chorbs美化库/Attachment/深色-鬼灭之刃.json",
     "chorbs美化库/Attachment/深色-树林.json",
@@ -262,14 +270,6 @@
     "chorbs美化库/Attachment/深色-三棱镜.json",
     "chorbs美化库/Attachment/浅色-粉.json",
     "chorbs美化库/Attachment/浅&深-小岛.json",
-    "chorbs美化库/自制-深色.md",
-    "chorbs美化库/自制-浅色.md",
-    "chorbs美化库/测试文章.md",
-    "chorbs美化库/AnuPpuccinMD元素设置对照.md",
-    "00 Inbox/主要剧情设定^12.md",
-    "00 Inbox/知识学习.md",
-    "00 Inbox/Read Me.md",
-    "00 Inbox/集中式网管.md",
     "Untitled.canvas"
   ]
 }

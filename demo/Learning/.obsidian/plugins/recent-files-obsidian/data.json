@@ -1,56 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Git常用命令",
-      "path": "00 Inbox/Git/Git常用命令.md"
+      "basename": "用到一些函数和细节",
+      "path": "00 Inbox/python/用到一些函数和细节.md"
     },
     {
-      "basename": "python输出相关",
-      "path": "00 Inbox/python/python输出相关.md"
-    },
-    {
-      "basename": "变量,",
-      "path": "00 Inbox/python/变量,.md"
-    },
-    {
-      "basename": "注释,py文件的执行相关",
-      "path": "00 Inbox/python/注释,py文件的执行相关.md"
-    },
-    {
-      "basename": "DateView 查询",
-      "path": "00 Inbox/Obsidian Learning/DateView 查询.md"
-    },
-    {
-      "basename": "变量内存概念",
-      "path": "Excalidraw/变量内存概念.md"
-    },
-    {
-      "basename": "py注意事项和基本代码规范",
-      "path": "00 Inbox/python/py注意事项和基本代码规范.md"
-    },
-    {
-      "basename": "py中的函数",
-      "path": "00 Inbox/python/py中的函数.md"
+      "basename": "python面试扩展",
+      "path": "00 Inbox/python/python面试扩展.md"
     },
     {
       "basename": "PyCharm常用快捷键和常见转义字符",
       "path": "00 Inbox/python/PyCharm常用快捷键和常见转义字符.md"
     },
     {
+      "basename": "py中的函数",
+      "path": "00 Inbox/python/py中的函数.md"
+    },
+    {
+      "basename": "变量和数据类型简单讲解",
+      "path": "00 Inbox/python/变量和数据类型简单讲解.md"
+    },
+    {
+      "basename": "python输出相关",
+      "path": "00 Inbox/python/python输出相关.md"
+    },
+    {
       "basename": "这是测试双链的",
       "path": "00 Inbox/Obsidian Learning/这是测试双链的.md"
+    },
+    {
+      "basename": "DateView 查询",
+      "path": "00 Inbox/Obsidian Learning/DateView 查询.md"
+    },
+    {
+      "basename": "Obsidian插件功能",
+      "path": "00 Inbox/Obsidian Learning/Obsidian插件功能.md"
+    },
+    {
+      "basename": "Obsidian搜索技巧",
+      "path": "00 Inbox/Obsidian Learning/Obsidian搜索技巧.md"
     },
     {
       "basename": "obsidian学习",
       "path": "00 Inbox/Obsidian Learning/obsidian学习.md"
     },
     {
-      "basename": "novel",
-      "path": "00 Inbox/novel.md"
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
+      "basename": "create a link",
+      "path": "00 Inbox/create a link.md"
+    },
+    {
+      "basename": "注释,py文件的执行相关",
+      "path": "00 Inbox/python/注释,py文件的执行相关.md"
+    },
+    {
+      "basename": "py注意事项和基本代码规范",
+      "path": "00 Inbox/python/py注意事项和基本代码规范.md"
     },
     {
       "basename": "密码",
       "path": "00 Inbox/密码.md"
+    },
+    {
+      "basename": "集中式网管",
+      "path": "00 Inbox/集中式网管.md"
+    },
+    {
+      "basename": "novel",
+      "path": "00 Inbox/novel.md"
+    },
+    {
+      "basename": "Read Me",
+      "path": "00 Inbox/Read Me.md"
+    },
+    {
+      "basename": "www",
+      "path": "00 Inbox/www.md"
+    },
+    {
+      "basename": "Git常用命令",
+      "path": "00 Inbox/Git/Git常用命令.md"
+    },
+    {
+      "basename": "变量内存概念",
+      "path": "Excalidraw/变量内存概念.md"
     },
     {
       "basename": "深色-树林",
@@ -109,14 +145,6 @@
       "path": "chorbs美化库/Attachment/深色-林间小屋.png"
     },
     {
-      "basename": "Read Me",
-      "path": "00 Inbox/Read Me.md"
-    },
-    {
-      "basename": "集中式网管",
-      "path": "00 Inbox/集中式网管.md"
-    },
-    {
       "basename": "20240920错误",
       "path": "00 Inbox/network/实验笔记和排查/20240920错误.md"
     },
@@ -141,16 +169,8 @@
       "path": "attachment/osi和tcp的对比.png"
     },
     {
-      "basename": "Obsidian插件功能",
-      "path": "00 Inbox/Obsidian Learning/Obsidian插件功能.md"
-    },
-    {
       "basename": "Obsidian 插件",
       "path": "00 Inbox/Obsidian Learning/Obsidian 插件.md"
-    },
-    {
-      "basename": "www",
-      "path": "00 Inbox/www.md"
     },
     {
       "basename": "界之行",
@@ -179,26 +199,6 @@
     {
       "basename": "Ipsec 基础理论部分",
       "path": "00 Inbox/network/HuaWei/WAN AND Ipsec/Ipsec 基础理论部分.md"
-    },
-    {
-      "basename": "VPN概述",
-      "path": "00 Inbox/network/HuaWei/Multi Protocol Label Switching/VPN概述.md"
-    },
-    {
-      "basename": "24-04-05——Fr",
-      "path": "Daily-Note/24-04-05——Fr.md"
-    },
-    {
-      "basename": "Obsidian搜索技巧",
-      "path": "00 Inbox/Obsidian Learning/Obsidian搜索技巧.md"
-    },
-    {
-      "basename": "组播网络分布树段",
-      "path": "00 Inbox/network/HuaWei/MultiCast/组播网络分布树段.md"
-    },
-    {
-      "basename": "为什么发展出了堆叠,VxLan的演进过程",
-      "path": "00 Inbox/network/HuaWei/VxLAN/为什么发展出了堆叠,VxLan的演进过程.md"
     }
   ],
   "omittedPaths": [],
