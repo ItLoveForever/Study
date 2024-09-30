@@ -1,13 +1,13 @@
 {
   "accentColor": "",
-  "theme": "system",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "【AnuPpuccin】浮动搜索栏",
-    "【AnuPpuccin】its-frontmatter",
     "【AnuPpuccin】扩展的颜色方案",
     "custom-background",
     "【AnuPpuccin】notion-cards",
-    "【AnuPpuccin】minimal-cards"
+    "【AnuPpuccin】minimal-cards",
+    "【AnuPpuccin】its-frontmatter"
   ],
   "cssTheme": "AnuPpuccin",
   "textFontFamily": "楷体",

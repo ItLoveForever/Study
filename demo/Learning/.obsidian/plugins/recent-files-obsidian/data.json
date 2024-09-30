@@ -5,20 +5,36 @@
       "path": "00 Inbox/python/用到一些函数和细节.md"
     },
     {
-      "basename": "python面试扩展",
-      "path": "00 Inbox/python/python面试扩展.md"
+      "basename": "运算符和运算符优先级",
+      "path": "00 Inbox/python/运算符和运算符优先级.md"
     },
     {
-      "basename": "PyCharm常用快捷键和常见转义字符",
-      "path": "00 Inbox/python/PyCharm常用快捷键和常见转义字符.md"
+      "basename": "变量和数据类型简单讲解",
+      "path": "00 Inbox/python/变量和数据类型简单讲解.md"
     },
     {
       "basename": "py中的函数",
       "path": "00 Inbox/python/py中的函数.md"
     },
     {
-      "basename": "变量和数据类型简单讲解",
-      "path": "00 Inbox/python/变量和数据类型简单讲解.md"
+      "basename": "py注意事项和基本代码规范",
+      "path": "00 Inbox/python/py注意事项和基本代码规范.md"
+    },
+    {
+      "basename": "python面试扩展",
+      "path": "00 Inbox/python/python面试扩展.md"
+    },
+    {
+      "basename": "集中式网管",
+      "path": "00 Inbox/集中式网管.md"
+    },
+    {
+      "basename": "注释,py文件的执行相关",
+      "path": "00 Inbox/python/注释,py文件的执行相关.md"
+    },
+    {
+      "basename": "PyCharm常用快捷键和常见转义字符",
+      "path": "00 Inbox/python/PyCharm常用快捷键和常见转义字符.md"
     },
     {
       "basename": "python输出相关",
@@ -53,20 +69,8 @@
       "path": "00 Inbox/create a link.md"
     },
     {
-      "basename": "注释,py文件的执行相关",
-      "path": "00 Inbox/python/注释,py文件的执行相关.md"
-    },
-    {
-      "basename": "py注意事项和基本代码规范",
-      "path": "00 Inbox/python/py注意事项和基本代码规范.md"
-    },
-    {
       "basename": "密码",
       "path": "00 Inbox/密码.md"
-    },
-    {
-      "basename": "集中式网管",
-      "path": "00 Inbox/集中式网管.md"
     },
     {
       "basename": "novel",
@@ -195,10 +199,6 @@
     {
       "basename": "后续学习总结笔记",
       "path": "00 Inbox/network/HuaWei/WAN AND Ipsec/后续学习总结笔记.md"
-    },
-    {
-      "basename": "Ipsec 基础理论部分",
-      "path": "00 Inbox/network/HuaWei/WAN AND Ipsec/Ipsec 基础理论部分.md"
     }
   ],
   "omittedPaths": [],
