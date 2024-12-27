@@ -4,37 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "976a0bd5e0c03815",
+        "id": "9d88c0451b3388fe",
         "type": "tabs",
         "children": [
           {
-            "id": "badd9e786465d832",
+            "id": "d787f87ecf8ce5a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/network/HuaWei/ISIS/ISIS整体.md",
+                "file": "00 Inbox/network/HUAWEI-笔试错题笔记/y园区注意事项点.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5e75a1eb529eb332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/python/用到一些函数和细节.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "y园区注意事项点"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -63,7 +53,9 @@
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ]
@@ -78,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -100,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -109,8 +105,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/python/用到一些函数和细节.md"
-              }
+                "file": "00 Inbox/network/HUAWEI-笔试错题笔记/y园区注意事项点.md"
+              },
+              "icon": "lucide-list",
+              "title": "y园区注意事项点 的大纲"
             }
           },
           {
@@ -122,7 +120,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
@@ -138,13 +138,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#这里的auto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -153,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/python/用到一些函数和细节.md",
+                "file": "00 Inbox/network/HUAWEI-笔试错题笔记/y园区注意事项点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "y园区注意事项点 的反向链接列表"
             }
           },
           {
@@ -170,10 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/python/用到一些函数和细节.md",
+                "file": "00 Inbox/network/HUAWEI-笔试错题笔记/y园区注意事项点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "y园区注意事项点 的出链列表"
             }
           },
           {
@@ -184,7 +190,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           }
         ]
@@ -198,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -222,54 +232,54 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5e75a1eb529eb332",
+  "active": "d787f87ecf8ce5a4",
   "lastOpenFiles": [
-    "00 Inbox/python/运算符和运算符优先级.md",
-    "00 Inbox/python/变量和数据类型简单讲解.md",
-    "00 Inbox/python/用到一些函数和细节.md",
-    "00 Inbox/python/py中的函数.md",
-    "00 Inbox/python/py注意事项和基本代码规范.md",
-    "00 Inbox/python/python面试扩展.md",
-    "00 Inbox/集中式网管.md",
-    "00 Inbox/python/注释,py文件的执行相关.md",
-    "00 Inbox/python/PyCharm常用快捷键和常见转义字符.md",
-    "00 Inbox/python/python输出相关.md",
+    "00 Inbox/network/HUAWEI-笔试错题笔记/z园区注意事项.md",
+    "00 Inbox/network/HUAWEI-笔试错题笔记/x视频学习提速.md",
+    "00 Inbox/network/HUAWEI-笔试错题笔记/2024-06-22 复习.md",
+    "00 Inbox/network/日常记录的一些指令.md",
+    "00 Inbox/network/Z园区/z园区标准配置.md",
+    "00 Inbox/linux/shell.md",
+    "00 Inbox/linux",
+    "00 Inbox/network/HuaWei/ISIS/ISIS整体.md",
+    "00 Inbox/python/容器Collect/字符串容器/字符串常用函数.md",
+    "00 Inbox/network/HUAWEI-笔试错题笔记/今日练习错误点.md",
+    "00 Inbox/novel/新二次元综漫融合/灵感碎片主角开场设定.md",
+    "00 Inbox/network/HUAWEI-笔试错题笔记/y园区注意事项点.md",
+    "00 Inbox/python/容器Collect/集合Set/基本概念.md",
+    "未命名",
+    "00 Inbox/network/Z园区",
+    "00 Inbox/python/容器Collect/tuple/tuple 元组.md",
+    "00 Inbox/python/容器Collect/tuple/元组常用的方法.md",
+    "00 Inbox/python/切片.md",
+    "00 Inbox/python/容器Collect/集合Set",
+    "00 Inbox/python/容器Collect/字符串容器/字符串容器.md",
     "00 Inbox/Obsidian Learning/这是测试双链的.md",
-    "00 Inbox/Obsidian Learning/DateView 查询.md",
-    "00 Inbox/Obsidian Learning/Obsidian插件功能.md",
-    "00 Inbox/Obsidian Learning/Obsidian搜索技巧.md",
-    "00 Inbox/Obsidian Learning/obsidian学习.md",
-    "Welcome.md",
-    "00 Inbox/create a link.md",
-    "00 Inbox/密码.md",
-    "00 Inbox/novel.md",
-    "00 Inbox/Read Me.md",
-    "00 Inbox/www.md",
-    "00 Inbox/Git/Git常用命令.md",
-    "Excalidraw/变量内存概念.md",
+    "00 Inbox/集中式网管.md",
+    "00 Inbox/python/容器Collect/字符串容器",
+    "00 Inbox/python/函数/lambda.md",
+    "00 Inbox/python/容器Collect/数组Array/数组Array.md",
+    "00 Inbox/python/容器Collect/tuple",
+    "00 Inbox/python/容器Collect/数组Array/数组常用函数.md",
+    "00 Inbox/python/容器Collect/数组Array/列表生成式.md",
+    "00 Inbox/python/容器Collect/数组Array",
+    "00 Inbox/python/用到一些函数和细节.md",
+    "00 Inbox/python/容器Collect",
+    "00 Inbox/python/函数/函数相关知识点.md",
+    "00 Inbox/python/程序流程控制.md",
+    "00 Inbox/python/函数",
+    "attachment/Pasted image 20240416110645.png",
+    "attachment/Pasted image 20240407224152.png",
+    "attachment/数值函数传参.png",
+    "00 Inbox/python/运算符和运算符优先级.md",
     "chorbs美化库/Attachment/深色-树林.png",
-    "chorbs美化库/精选壁纸/场景.md",
-    "chorbs美化库/精选壁纸/动漫.md",
-    "chorbs美化库/精选壁纸/极简.md",
     "chorbs美化库/Attachment/浅色-粉.png",
     "chorbs美化库/Attachment/浅色-小岛白天.png",
     "chorbs美化库/Attachment/深色-鬼灭之刃.png",
     "chorbs美化库/Attachment/深色-星空.png",
     "chorbs美化库/Attachment/深色-小猫.png",
     "chorbs美化库/Attachment/深色-小岛夜晚.png",
-    "chorbs美化库/Attachment/深色-书房.png",
-    "chorbs美化库/Attachment/深色-三棱镜.png",
-    "chorbs美化库/Attachment/深色-林间小屋.png",
     "chorbs美化库/精选壁纸",
-    "chorbs美化库/Attachment/深色-鬼灭之刃.json",
-    "chorbs美化库/Attachment/深色-树林.json",
-    "chorbs美化库/Attachment/深色-林间小屋.json",
-    "chorbs美化库/Attachment/深色-星空.json",
-    "chorbs美化库/Attachment/深色-小猫.json",
-    "chorbs美化库/Attachment/深色-书房.json",
-    "chorbs美化库/Attachment/深色-三棱镜.json",
-    "chorbs美化库/Attachment/浅色-粉.json",
-    "chorbs美化库/Attachment/浅&深-小岛.json",
     "Untitled.canvas"
   ]
 }
